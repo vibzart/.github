@@ -1,4 +1,4 @@
-# Vibz.Art Studio
+# Vibz.Art
 
 ### Ancient Wisdom. Modern Code. 🕉️ ⚙️
 
